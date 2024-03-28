@@ -1,2 +1,0 @@
-# Information System - Quality - GUI
-
